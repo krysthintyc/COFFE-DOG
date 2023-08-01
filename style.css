@@ -1,4 +1,17 @@
-header {
-background-color: #008000;
-color: rgb(232, 239, 241);
+
+
+.cabeçalho {
+    background-color: #008000;
+    color: rgb(232, 239, 241);
+    display: flex;
+    justify-content:space-around;
+}
+
+.cabeçalho-img{
+    width: 20%;
+}
+
+.cabeçalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
 }
