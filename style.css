@@ -3,6 +3,9 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Poppins',sans-serif;
+}
 .cabeçalho {
     background-color: #008000;
     color: rgb(232, 239, 241);
