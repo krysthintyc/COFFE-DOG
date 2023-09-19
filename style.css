@@ -28,7 +28,21 @@ body{
     font-size: 24px;
 }
 
+.cabecalho-fotos-cardapio{
+    width: 40%;
+}
 
+.cabecalho-cardapio{
+    width: 50%;
+}
+
+.foto-cardapio{
+    width: 60%;
+}
+
+.cabecalho-fotos-c{
+    width: 70%;
+}
 
 
 
