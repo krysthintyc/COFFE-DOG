@@ -1,4 +1,4 @@
-.{
+.cabeçalho{
     margin: 0;
     padding: 0;
 }
@@ -28,22 +28,6 @@ body{
     font-size: 24px;
 }
 
-.cabecalho-fotos-cardapio{
-    width: 40%;
-}
-
-.cabecalho-cardapio{
-    width: 50%;
-}
-
-.foto-cardapio{
-    width: 60%;
-}
-
-.cabecalho-fotos-c{
-    width: 70%;
-}
-
 
 
 
@@ -60,6 +44,33 @@ body{
 
 .area-de-lazer-imagem{
     width: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.charmed-coffe{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
 
